@@ -4,7 +4,7 @@ You can access the example code in the code folder
 ## How to Study
 ### Books 
 - Design Patterns in Java
-  - I believe this book has the bes t structure. Definitely the go to handbook of mine.
+  - I believe this book has the best structure. It shows codes and examples all written java. Simple to understand talks about all important aspects. Definitely the go to handbook of mine.
 - Desing Patterns: Elements of Reusable Object-Oriented Software Development
   - First book that defines the design patterns. Some patterns are explained with less detail. But overall this must one of the first resources you need to look out for when learning about design patterns
 - Head First Design Patterns
