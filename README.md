@@ -11,7 +11,7 @@ You can access the example code in the code folder
   - This is our coursebook thus it is the best place to study for exams. The way it teaches is not suitable for me, other two books give more concrete examples.
   
 ### Papers
-Unlike most other things in computer science design patterns are first defined in the book not in a paper. Because of this papers about design patterns are very limited and higher level. Below are some of my favourites on the subject.
+Unlike most other things in computer science design patterns are first defined in the book not in a paper, so there is no initial paper for design patterns. Below are some of my favourite papers on the subject.
 - Learning to  Listen for Design 
   - This is the paper that the first part of our lecture is based on. It touches some very interesting points. Especially Voice and Hearing chapters are really fun to read. 
 - Design Patterns Generic Models
